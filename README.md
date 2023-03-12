@@ -1,7 +1,7 @@
 # Google Cloud Platform-Airflow
 
 ## DAG
-```
+```py
 import os
 import glob
 import logging
